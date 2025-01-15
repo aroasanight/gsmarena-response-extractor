@@ -9,7 +9,7 @@
 
 2. Scroll down. If you see a speaker test section, with the GSMArena Speaker Test logo at the top of this README, 7 songs, a graph and the ability to add and remove devices, your device is supported.
 
-3. Head back to the specs page for your phone. Copy the ID from the end of the URL - for example https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php yeilds an ID of `12024`.
+3. Head back to the specs page for your phone. Copy the ID from the end of the URL - for example https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php yeilds an ID of `12024`. If you can't see where that number comes from you should be seriously contemplating not only why you're on GitHub, but even why you're using any form of technology in the first place. I would say you should go back to writing letters but you're probably not even capable of doing that.
 
 4. Run `main.py` and input your ID when prompted.
 

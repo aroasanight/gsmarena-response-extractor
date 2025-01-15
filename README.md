@@ -13,4 +13,4 @@
 
 4. run `main.py` and input your ID when prompted.
 
-5. a new file should be generated in the current working directory labelled `brand-model_gsm-raw-response.csv`. this is the output, and is ready to be uploaded to AutoEQ (you may need to reformat in other ways for other platforms/services).
+5. a new file should be generated in the current working directory labelled `brand-model_gsm-raw-response.csv`. this is the output, and is ready to be uploaded to [AutoEQ](https://autoeq.app/) (you may need to reformat in other ways for other platforms/services).

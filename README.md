@@ -3,7 +3,7 @@
 
 ![GSMArena Speaker Test logo](https://fdn.gsmarena.com/vv/assets12/static/speakerphone/spk-test.png?v=3)
 
-# Instructions for use
+# instructions for use
 
 1. open GSMArena in your browser, and find your phone. head to the review page, and then the third page of that (the lab tests section).
 

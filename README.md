@@ -1,3 +1,22 @@
+# !! Important info surrounding GenAI !!
+Some repositories on my profile, including this one, consist of predominantly or entirely AI-generated code.
+
+I **_used_** to use AI to generate code when either I couldn't be bothered to do it myself, or wanted it in a much shorter timescale than I'd be able to write it myself.
+
+I believe GenAI not only has negative effects on the individuals who make heavy use of it, but is also detrimental to society as a whole.
+
+For code I still use, or have time to rewrite, I'm slowly working through my old repos deleting all the AI code and replacing it with my own code. It's likely worse quality but it's not AI slop and it's something I've written and can be proud of.
+
+For code I don't still use or don't have time to rewrite, I'm leaving public for archival purposes but with this warning.
+
+For this repo specifically, I will rewrite it as soon as I get the chance, which may be quite some time so please be patient. In the meantime, the old AI-generated code is here since it does still function.
+
+### I do not endorse GenAI in any shape or form.
+
+\- Ari (aroasanight)
+
+---
+
 # gsmarena-response-extractor
  tool for extracting phone frequency response data from GSMArena, and converting it into an AutoEQ-compatible CSV.
 
